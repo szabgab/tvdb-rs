@@ -4,7 +4,7 @@ version = "0.6.0"
 authors = ["dbr <dbr.onix@gmail.com>"]
 
 description = "API wrapper to http://thetvdb.com (open database for TV episode data)"
-repository = "http://github.com/dbr/tvdb-rs"
+repository = "https://github.com/dbr/tvdb-rs"
 readme = "readme.md"
 keywords = ["api", "tvdb", "web"]
 license = "Unlicense"
